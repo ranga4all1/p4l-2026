@@ -1,4 +1,4 @@
-from helper import frequency_table
+from .helper import frequency_table
 import requests
 
 
